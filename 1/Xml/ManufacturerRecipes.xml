@@ -8,8 +8,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>CoalOre</Key>
-				<Amount>1</Amount>
+				<Key>IronBar</Key>
+				<Amount>10</Amount>
 			</CraftCost>
 		</Costs>
 		<Description>Creates Compost for the Auto-Fermenter.</Description>
@@ -23,8 +23,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>CoalOre</Key>
-				<Amount>1</Amount>
+				<Key>IronBar</Key>
+				<Amount>10</Amount>
 			</CraftCost>
 		</Costs>
 		<Description>Creates coal from logs.</Description>
@@ -38,8 +38,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>CoalOre</Key>
-				<Amount>1</Amount>
+				<Key>IronBar</Key>
+				<Amount>10</Amount>
 			</CraftCost>
 		</Costs>
 		<Description>Lets you grow trees!.</Description>
@@ -53,8 +53,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>CoalOre</Key>
-				<Amount>1</Amount>
+				<Key>IronBar</Key>
+				<Amount>10</Amount>
 			</CraftCost>
 		</Costs>
 		<Description>Lets you grow trees!.</Description>
@@ -68,8 +68,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>CoalOre</Key>
-				<Amount>1</Amount>
+				<Key>IronBar</Key>
+				<Amount>10</Amount>
 			</CraftCost>
 		</Costs>
 		<Description>Lets you grow trees!.</Description>
@@ -83,7 +83,7 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>CoalOre</Key>
+				<Key>IronBar</Key>
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
