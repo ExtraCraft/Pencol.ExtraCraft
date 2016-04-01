@@ -6,7 +6,7 @@ xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <Value>Pencol.Composter</Value>
 <PowerUsePerSecond>20</PowerUsePerSecond>
 <PowerTransferPerSecond>1024</PowerTransferPerSecond>
-<MaxPowerStorage>8</MaxPowerStorage>
+<MaxPowerStorage>1024</MaxPowerStorage>
 <CraftingString>Composting</CraftingString>
 <CraftTime>15</CraftTime>
 <OptionalIngredients>false</OptionalIngredients>
