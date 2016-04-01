@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItemEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ItemEntry>  
+	<Key>Pencol.Compost</Key>
+	<Name>Compost</Name>  
+	<Plural>Composts</Plural> 
+	<Type>ItemStack</Type>  
+	<Object>UnknownItem</Object>  
+	<Sprite>Biomass Growth Ping</Sprite> 
+	<Category>CraftingIngredient</Category> 
+	<ItemAction>Custom</ItemAction>
+		<ActionParameter>Compost</ActionParameter>
+</ItemEntry> 
+<ItemEntry>  
+	<Key>Pencol.SoilI</Key>
+	<Name>SoilI</Name>  
+	<Plural>Composts</Plural> 
+	<Type>ItemCharge</Type>  
+	<Object>UnknownItem</Object>  
+	<Sprite>Dirt</Sprite> 
+	<Category>CraftingIngredient</Category> 
+	<ItemAction>BuildBlock</ItemAction>
+		<ActionParameter>Pencol.Soil</ActionParameter>
+</ItemEntry>
+<ItemEntry>  
+	<Key>Pencol.Pruner</Key>
+	<Name>Branch Pruner</Name>  
+	<Plural>Branch Pruner</Plural> 
+	<Type>ItemSingle</Type>  
+	<Object>UnknownItem</Object>  
+	<Sprite>Biomass Growth Ping</Sprite> 
+	<Category>CraftingIngredient</Category> 
+	<ItemAction>Custom</ItemAction>
+		<ActionParameter>Pruner</ActionParameter>
+</ItemEntry> 
+</ArrayOfItemEntry>

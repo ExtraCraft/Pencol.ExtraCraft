@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTerrainDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<TerrainDataEntry>
+		<Key>GenericAssemblerMachine</Key>
+		<IsOverride>true</IsOverride>
+		<Values>
+			<ValueEntry>
+				<Key>Pencol.Composter</Key>
+				<Name>Composter</Name>
+				<IconName>Organic Reassembler</IconName>
+				<Description>Compost Leaves!</Description>
+			</ValueEntry>
+		</Values>
+	</TerrainDataEntry>
+	<TerrainDataEntry>
+		<Key>Pencol.Sapling</Key>
+		<Name>Sapling</Name>
+		<Description>Lets you grow trees!</Description>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>192</TopTexture>
+		<SideTexture>192</SideTexture>
+		<BottomTexture>192</BottomTexture>
+		<GUITexture>192</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<AudioWalkType>Dirt</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<IconName>Toxic Cavern Flora 6</IconName>	
+		<MaxStack>100</MaxStack>
+	</TerrainDataEntry>
+	<TerrainDataEntry>
+		<Key>Pencol.Harvester</Key>
+		<Name>Harvester</Name>
+		<Description>Lets you grow trees!</Description>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>192</TopTexture>
+		<SideTexture>192</SideTexture>
+		<BottomTexture>192</BottomTexture>
+		<GUITexture>192</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<AudioWalkType>Dirt</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<IconName>Bound Metal Crate</IconName>	
+		<MaxStack>100</MaxStack>		
+	</TerrainDataEntry>
+	<TerrainDataEntry>
+		<Key>Pencol.Planter</Key>
+		<Name>Planter</Name>
+		<Description>Lets you grow trees!</Description>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>192</TopTexture>
+		<SideTexture>192</SideTexture>
+		<BottomTexture>192</BottomTexture>
+		<GUITexture>192</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<AudioWalkType>Dirt</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<IconName>MK1 Robot Arm</IconName>	
+		<MaxStack>100</MaxStack>		
+	</TerrainDataEntry>
+	<TerrainDataEntry>
+		<Key>Pencol.Soil</Key>
+		<Name>Soil</Name>
+		<Description>Lets you grow trees!</Description>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>0</TopTexture>
+		<SideTexture>3</SideTexture>
+		<BottomTexture>2</BottomTexture>
+		<GUITexture>2</GUITexture>
+		<isSolid>true</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>false</hasObject>
+		<hasEntity>true</hasEntity>
+		<AudioWalkType>Dirt</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<IconName>Dirt</IconName>	
+		<MaxStack>100</MaxStack>		
+	</TerrainDataEntry>
+	<TerrainDataEntry>
+		<Key>Pencol.Fermenter</Key>
+		<Name>Fermenter</Name>
+		<Description>Lets you grow trees!</Description>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>192</TopTexture>
+		<SideTexture>192</SideTexture>
+		<BottomTexture>192</BottomTexture>
+		<GUITexture>192</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<AudioWalkType>Dirt</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<IconName>Geological Surveyor</IconName>
+		<MaxStack>100</MaxStack>		
+	</TerrainDataEntry>
+</ArrayOfTerrainDataEntry>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCraftData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"> 
+	<CraftData>
+		<Key>Pencol.Composter</Key>
+		<Category>power</Category>
+		<Tier>1</Tier>
+		<CraftedKey>Pencol.Composter</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CoalOre</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Creates Compost for the Auto-Fermenter.</Description>
+		<Hint>It smells weird!</Hint>
+	</CraftData>
+	<CraftData>
+		<Key>Pencol.Harvester</Key>
+		<Category>power</Category>
+		<Tier>1</Tier>
+		<CraftedKey>Pencol.Harvester</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CoalOre</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Lets you grow trees!.</Description>
+		<Hint>Lets grow trees!</Hint>
+	</CraftData>
+	<CraftData>
+		<Key>Pencol.Planter</Key>
+		<Category>power</Category>
+		<Tier>1</Tier>
+		<CraftedKey>Pencol.Planter</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CoalOre</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Lets you grow trees!.</Description>
+		<Hint>Lets grow trees!</Hint>
+	</CraftData>
+		<CraftData>
+		<Key>Pencol.Fermenter</Key>
+		<Category>power</Category>
+		<Tier>1</Tier>
+		<CraftedKey>Pencol.Fermenter</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CoalOre</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Lets you grow trees!.</Description>
+		<Hint>Lets grow trees!</Hint>
+	</CraftData>
+			<CraftData>
+		<Key>Pencol.Pruner</Key>
+		<Category>power</Category>
+		<Tier>1</Tier>
+		<CraftedKey>Pencol.Pruner</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CoalOre</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Lets you get saplings!</Description>
+		<Hint>Lets you get saplings!</Hint>
+	</CraftData>
+</ArrayOfCraftData>

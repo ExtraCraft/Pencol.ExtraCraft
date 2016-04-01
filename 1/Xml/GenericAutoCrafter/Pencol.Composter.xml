@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<FriendlyName>Composter</FriendlyName>
+<SpawnObject>CoalEnricher</SpawnObject>
+<Value>Pencol.Composter</Value>
+<PowerUsePerSecond>0.1</PowerUsePerSecond>
+<PowerTransferPerSecond>1024</PowerTransferPerSecond>
+<MaxPowerStorage>8</MaxPowerStorage>
+<CraftingString>Composting</CraftingString>
+<CraftTime>30</CraftTime>
+<OptionalIngredients>false</OptionalIngredients>
+	<Recipe>
+	<Key>Pencol.CompostRecipe</Key>
+	<CraftedKey>Pencol.Compost</CraftedKey>
+	<CraftedAmount>1</CraftedAmount>
+	<Costs>
+		<CraftCost>
+			<Key>Leaves</Key>
+			<Amount>10</Amount>
+		</CraftCost>
+	</Costs>
+	<Description>Compost leaves!</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>
