@@ -10,6 +10,12 @@
 				<IconName>Organic Reassembler</IconName>
 				<Description>Compost Leaves!</Description>
 			</ValueEntry>
+			<ValueEntry>
+				<Key>Pencol.Firepit</Key>
+				<Name>Fire Pit</Name>
+				<IconName>Organic Reassembler</IconName>
+				<Description>Burns logs!</Description>
+			</ValueEntry>
 		</Values>
 	</TerrainDataEntry>
 	<TerrainDataEntry>

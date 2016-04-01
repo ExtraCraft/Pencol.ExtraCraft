@@ -15,6 +15,21 @@
 		<Description>Creates Compost for the Auto-Fermenter.</Description>
 		<Hint>It smells weird!</Hint>
 	</CraftData>
+		<CraftData>
+		<Key>Pencol.Firepit</Key>
+		<Category>power</Category>
+		<Tier>1</Tier>
+		<CraftedKey>Pencol.Firepit</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CoalOre</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Creates coal from logs.</Description>
+		<Hint>Smoking!</Hint>
+	</CraftData>
 	<CraftData>
 		<Key>Pencol.Harvester</Key>
 		<Category>power</Category>

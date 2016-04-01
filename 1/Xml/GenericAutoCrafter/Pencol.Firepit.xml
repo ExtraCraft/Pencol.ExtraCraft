@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<FriendlyName>Fire Pit</FriendlyName>
+<SpawnObject>MassStorageCrate</SpawnObject>
+<Value>Pencol.Firepit</Value>
+<PowerUsePerSecond>0.1</PowerUsePerSecond>
+<PowerTransferPerSecond>1024</PowerTransferPerSecond>
+<MaxPowerStorage>1024</MaxPowerStorage>
+<CraftingString>Burning</CraftingString>
+<CraftTime>30</CraftTime>
+<OptionalIngredients>false</OptionalIngredients>
+	<Recipe>
+	<Key>Pencol.PitRecipe</Key>
+	<CraftedKey>CoalOre</CraftedKey>
+	<CraftedAmount>1</CraftedAmount>
+	<Costs>
+		<CraftCost>
+			<Key>TreeTrunk</Key>
+			<Amount>4</Amount>
+		</CraftCost>
+	</Costs>
+	<Description>Burns Logs</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>
