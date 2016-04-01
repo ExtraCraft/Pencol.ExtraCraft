@@ -4,11 +4,11 @@ xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <FriendlyName>Composter</FriendlyName>
 <SpawnObject>CoalEnricher</SpawnObject>
 <Value>Pencol.Composter</Value>
-<PowerUsePerSecond>0.1</PowerUsePerSecond>
+<PowerUsePerSecond>20</PowerUsePerSecond>
 <PowerTransferPerSecond>1024</PowerTransferPerSecond>
 <MaxPowerStorage>8</MaxPowerStorage>
 <CraftingString>Composting</CraftingString>
-<CraftTime>30</CraftTime>
+<CraftTime>15</CraftTime>
 <OptionalIngredients>false</OptionalIngredients>
 	<Recipe>
 	<Key>Pencol.CompostRecipe</Key>
